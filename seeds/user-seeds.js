@@ -3,14 +3,12 @@ const { User } = require('../models');
 const userData = [
     {
         username: "martin_bour",
-        twitter: "martinb",
         github: "martinb",
         email: "martin_b@gmail.com",
         password: "p@ssword1"
     },
     {
         username: "matt_b",
-        twitter: "mathewb",
         github: "mathewb",
         email: "mathew_b@gmail.com",
         password: "p@ssword2"
